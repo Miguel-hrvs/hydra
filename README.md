@@ -178,17 +178,17 @@ yarn make
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/FerNikoMF">
-            <img src="https://avatars.githubusercontent.com/u/76095334?v=4" width="100;" alt="FerNikoMF"/>
-            <br />
-            <sub><b>Firdavs</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Miguel-hrvs">
             <img src="https://avatars.githubusercontent.com/u/81558772?v=4" width="100;" alt="Miguel-hrvs"/>
             <br />
             <sub><b>Miguel</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/FerNikoMF">
+            <img src="https://avatars.githubusercontent.com/u/76095334?v=4" width="100;" alt="FerNikoMF"/>
+            <br />
+            <sub><b>Firdavs</b></sub>
         </a>
     </td></tr>
 </table>
